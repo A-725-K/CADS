@@ -31,6 +31,8 @@
 *.out
 *.app
 
-# Dir
+# Directory
 casd_tex
+
+# Input files
 input*
