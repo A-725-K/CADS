@@ -35,4 +35,5 @@
 casd_tex
 
 # Input files
-input*
+*.txt*
+
